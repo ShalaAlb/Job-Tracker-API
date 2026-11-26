@@ -1,0 +1,8 @@
+flask
+flask-jwt-extended
+pymongo
+werkzeug
+ratelimit
+bcrypt
+python-dotenv
+pytest
